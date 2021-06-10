@@ -1,4 +1,5 @@
 .navbar{
+<<<<<<< HEAD
 background-color:rgb(242, 239, 241);
 }
 .navbar-brand{
@@ -168,3 +169,11 @@ font-size:25px;}
  background-position: center;
   }
 } 
+=======
+  background-color:rgb(245, 234, 198);
+}
+.navbar-brand{
+  color:#831661;
+  font-size:30px;
+}
+>>>>>>> 9d3f3802c5cc4ff8937f2386bd64f43ed04685ec
