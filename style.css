@@ -1,5 +1,4 @@
 .navbar{
-<<<<<<< HEAD
 background-color:rgb(242, 239, 241);
 }
 .navbar-brand{
@@ -147,7 +146,7 @@ font-size:25px;}
     padding:20px;
     color:rgb(62, 61, 61);
     background-color:rgb(255, 255, 253);
-    margin:15px;
+    margin:30px;
   }
 } 
 @media(min-width:500px){
@@ -159,7 +158,7 @@ font-size:25px;}
 } 
 @media(min-width:756px){
   .title3{
-  font-size:25px;
+  font-size:25px; 
   }
 } 
 
@@ -167,13 +166,43 @@ font-size:25px;}
   .title3{
  background-image:url(../Documents/good.jpeg);
  background-position: center;
+ padding:70px 100px;
+ 
   }
 } 
-=======
-  background-color:rgb(245, 234, 198);
+#work{
+  text-align:center;
+  margin-bottom:30px;
+  margin-top:30px;
+  font-family:sans-serif;
+  font-size:45px;
+  font-weight: 800;
 }
-.navbar-brand{
-  color:#831661;
-  font-size:30px;
+@media(max-width:700px){
+  #work{
+    color:rgb(116, 115, 116);
+  }
 }
->>>>>>> 9d3f3802c5cc4ff8937f2386bd64f43ed04685ec
+
+.img2 {
+  border-radius: 20px;
+  margin-bottom:30px;
+  margin-top:30x;
+  }
+  @media(max-width:700px){
+    .img2{
+      padding:10px 10px;
+      
+    }
+  }
+  .tit{
+    text-align:center;
+    font-weight:bold;
+    margin-bottom:30px;
+  }
+  @media(max-width:700px){
+    .tit{
+      font-size:12px;
+      font-weight:500;
+    }
+  }
