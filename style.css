@@ -164,7 +164,7 @@ font-size:25px;}
 
 @media(min-width:990px){
   .title3{
- background-image:url(../Documents/good.jpeg);
+ background-image:url(./photos/good.jpeg);
  background-position: center;
  padding:70px 100px;
  
@@ -220,6 +220,7 @@ font-size:25px;}
   padding:20px 100px;
 }
 .about{
+  background-image:url(./photos/5555.jpeg);
   background-position:center;
   color:white;
   font-weight: bold;
