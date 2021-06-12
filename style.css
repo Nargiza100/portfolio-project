@@ -19,7 +19,7 @@ font-size:25px;}
   background-color:yellowgreen;
 }
 .content{
-  background-image:url(../Documents/good.jpeg);
+  background-image:url(./photos/good.jpeg);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
